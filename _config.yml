@@ -2,7 +2,7 @@
 title: '碎碎念念，年年岁岁'
 description: '很高兴能在这里与你分享我对技术和生活的思考。'
 keyword: '马凯, 马凯的独立博客, 马凯的博客, 前端博客, javascript, vuejs, nodejs, '
-url: 'jerry857.github.io' # your host
+url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
@@ -21,7 +21,7 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2021
 
 # Author 配置博主信息
 author: '马凯'
@@ -85,3 +85,14 @@ permalink: /:year/:month/:day/:title.html
 
 # Plugins
 plugins: [jekyll-paginate]
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?f53793c2734416047915af3327a526dc";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
