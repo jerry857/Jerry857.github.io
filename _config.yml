@@ -38,7 +38,7 @@ nightMode: true
 # Comments 评论功能
 comments:
   disqus: true
-  disqus_url: 'jerry857-github-io .disqus.com'
+  disqus_url: 'my-frist-blog-8.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
@@ -87,12 +87,4 @@ permalink: /:year/:month/:day/:title.html
 plugins: [jekyll-paginate]
 
 
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?f53793c2734416047915af3327a526dc";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
+
