@@ -38,7 +38,7 @@ nightMode: true
 # Comments 评论功能
 comments:
   disqus: true
-  disqus_url: 'https://my-first-blog-8.disqus.com/embed.js'
+  disqus_url: 'https://my-first-blog-8.disqus.com/'
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
