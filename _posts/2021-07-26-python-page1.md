@@ -11,7 +11,7 @@ tags: python
 >逛52看到的一个超赞的 python 爬虫项目
 ### 下面放代码
 ...
-import asyncio
+...import asyncio
 import random
 import time
  
@@ -121,4 +121,5 @@ class tulishe:
  
 a = tulishe()
 asyncio.run(a.main())
+...
 ...
