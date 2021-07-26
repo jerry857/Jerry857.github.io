@@ -1,4 +1,4 @@
----
+___
 
 layout: post
 title: 'python,page1'
@@ -6,8 +6,7 @@ date: 2021-07-26
 author: jerry
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll.theme-h2o-postcover.jpg'
 tags: python
-
----
+___
 >逛52看到的一个超赞的 python 爬虫项目
 ### 下面放代码
 
