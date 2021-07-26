@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: 'python-page1'
+title: 'python,page1'
 date: 2021-07-26
 author: jerry
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll.theme-h2o-postcover.jpg'
@@ -10,7 +10,8 @@ tags: python
 ---
 >逛52看到的一个超赞的 python 爬虫项目
 ### 下面放代码
-- import asyncio
+...
+import asyncio
 import random
 import time
  
@@ -120,3 +121,4 @@ class tulishe:
  
 a = tulishe()
 asyncio.run(a.main())
+...
