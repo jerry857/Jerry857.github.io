@@ -36,7 +36,7 @@ search: true
 nightMode: true
 
 # Comments 评论功能
-comments:
+comments: true
   disqus: true
   disqus_url: 'https://jerry857-github-i.disqus.com/embed.js'
 
